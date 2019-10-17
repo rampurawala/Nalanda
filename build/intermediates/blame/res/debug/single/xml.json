@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\xml\\global_tracker.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\xml\\ecommerce_tracker.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\xml\\ecommerce_tracker.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\xml\\app_tracker.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\xml\\network_security_config.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\xml\\network_security_config.xml"
+    }
+]

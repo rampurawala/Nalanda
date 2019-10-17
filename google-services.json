@@ -1,0 +1,330 @@
+{
+  "project_info": {
+    "project_number": "483965199444",
+    "firebase_url": "https://pathak-f3440.firebaseio.com",
+    "project_id": "pathak-f3440",
+    "storage_bucket": "pathak-f3440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:580de07ffbbf38cd",
+        "android_client_info": {
+          "package_name": "com.expedite.apps.gitanjali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:2a36bdd4c00cf5a7",
+        "android_client_info": {
+          "package_name": "com.expedite.apps.kumkum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:bed2c9c0ce534eefc439c1",
+        "android_client_info": {
+          "package_name": "com.expedite.apps.nalanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:93baaf8e7f5843e0",
+        "android_client_info": {
+          "package_name": "com.expedite.apps.vayuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:f15617d048683bec",
+        "android_client_info": {
+          "package_name": "com.expedite.apps.vayunaweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:aa7c40d1bac34519",
+        "android_client_info": {
+          "package_name": "com.expedite.edvantageadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:dd9e413aa46a464f",
+        "android_client_info": {
+          "package_name": "com.expedite.vayunaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:7790abeb653bd7ef",
+        "android_client_info": {
+          "package_name": "com.mac.androidweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:7f876081c11f0acc",
+        "android_client_info": {
+          "package_name": "com.mac.edvantageadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:9432cdb1cbaa35c0",
+        "android_client_info": {
+          "package_name": "com.mac.macschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483965199444:android:3b8696e5553dfdecc439c1",
+        "android_client_info": {
+          "package_name": "com.mac.vayunaschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483965199444-9n504h7scktrnv5vmp6d0up6fqr2js39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FbSpVYUgC2lIugld9KNoZPbKQPAFJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483965199444-n95mbjd6hoqop2uor0kbtofctmrde1m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

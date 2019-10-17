@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.expedite.apps.nalanda"
+    android:versionCode="4"
+    android:versionName="1.3">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <!-- //test -->
+    <!-- GCM requires a Google account. -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- Creates a custom permission so only this app can receive its messages. -->
+    <permission
+        android:name="com.expedite.apps.nalanda.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.mca.apps.anandniketan.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true"></supports-screens>
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:icon="@mipmap/vayuna"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDzWmv2ZNF4AE-UOPWNjzUoYFdrdIAEV-8" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.expedite.apps.nalanda.FileExplore"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.expedite.apps.nalanda.activity_welcome"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" />
+
+        <activity
+            android:name="com.expedite.apps.nalanda.ListActivity"
+            android:label="@string/title_activity_list"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.AccountListAdapter"
+            android:label="@string/title_activity_item_list"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.SplashScreen"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.ChangePinActivity"
+            android:label="@string/title_activity_register_mobile"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.StudentInformationActivity"
+            android:label="@string/title_activity_stud_info"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.StudentInformationAdapter"
+            android:label="@string/title_activity_stud_info_item"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Exams"
+            android:label="@string/title_activity_exams_item"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.ExamItemsAdapter"
+            android:label="@string/title_activity_exams_item"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Settings"
+            android:label="@string/title_activity_settings"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.SettingsItemAdapter"
+            android:label="@string/title_activity_settings_item"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.ProfileActivity"
+            android:label="@string/title_activity_view_profile"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.StudentResultActvity"
+            android:label="@string/title_activity_view_result"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Years"
+            android:label="@string/title_activity_years"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.YearsItemAdapter"
+            android:label="@string/title_activity_years_item"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.PhotoOptions"
+            android:label="@string/title_activity_photo_options"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.PhotoOptionAdapter"
+            android:label="@string/title_activity_photo_option_itm"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.UseCam"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_use_cam"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.UseGallery"
+            android:label="@string/title_activity_use_gallery"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.mca.apps.anandniketan" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.expedite.apps.nalanda.GCMIntentService" />
+
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.StudentListActivity"
+            android:label="@string/title_activity_student_list"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.MessagesListAdapter"
+            android:label="@string/title_activity_messages_item_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.MessagesMonthListActivity"
+            android:label="@string/title_activity_messages_monthlist"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.MessagesSelectedMonthActivity"
+            android:label="@string/title_activity_messages_selected_month"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SingleMessageActivity"
+            android:label="@string/title_activity_view_single_message"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.TwoItemListAdapter"
+            android:label="@string/title_activity_two_item_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.ExamListActivity"
+            android:label="@string/title_activity_exam_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SchoolMatesListActivity"
+            android:label="@string/title_activity_view_profile_scool_mates"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.ExamListMarksheetActivity"
+            android:label="@string/title_activity_exam_list_marksheet"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.MarksheetResultActivity"
+            android:label="@string/title_activity_view_marksheet_result"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.ProfileListAdapter"
+            android:label="@string/title_activity_profile_listrow"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.ExamItemListAdapter"
+            android:label="@string/title_activity_exam_itemlist"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.StudentAttendanceViewActivity"
+            android:label="@string/title_activity_stud_view_attendance"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.AboutActivity"
+            android:label="@string/title_activity_about"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.AddAccountActivity"
+            android:label="@string/title_activity_add_account"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.AccountListActivity"
+            android:label="@string/title_activity_account_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.AccountListRemoveActivity"
+            android:label="@string/title_activity_account_list_remove"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.RedirectActivity"
+            android:label="@string/title_activity_redirect"
+            android:screenOrientation="portrait"></activity>
+
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.NoticeActivity"
+            android:label="@string/title_activity_notice"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.NotBoardActivity"
+            android:label="@string/title_activity_not_board"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.StudentCircularActivity"
+            android:label="@string/title_activity_view_student_circular"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.AcademicYearActivity"
+            android:label="@string/title_activity_academic_year"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.FeeCardActivity"
+            android:label="@string/title_activity_fee_card1"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.FeesItemsListAdapter"
+            android:label="@string/title_activity_fee_item_list_activity1"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.FeesItemsAdapter"
+            android:label="@string/title_activity_fee_item1"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.PhotoGalleryActivity"
+            android:label="@string/title_activity_photo_gallery"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SingleImageActivity"
+            android:label="@string/title_activity_sinle_image"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.PhotoGallaryListAdapter"
+            android:label="@string/title_activity_list_view_adapter"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.SubjectWiseHWAdapter"
+            android:label="@string/title_activity_subject_wise_hw"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.SubJectWiseHWNTDNAdapter"
+            android:label="@string/title_activity_sub_ject_wise_hwntdn"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SubjectWiseHWNotificationActivity"
+            android:label="@string/title_activity_subject_wise_hwnotification"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SubjectWiseHWNTDNNotificationActivity"
+            android:label="@string/title_activity_subject_wise_hwntdnnotification"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SubjectWiseHWDetailsActivity"
+            android:label="@string/title_activity_subject_wise_hwdetails"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SubJectWiseHWNTDNDetailsActivity"
+            android:label="@string/title_activity_sub_ject_wise_hwntdndetails"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.HomeMenuExpandableListAdapter"
+            android:label="@string/title_activity_expandable__list_adapter"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.LessionMessageListOldAdapter"
+            android:label="@string/title_activity_lession_message_item_list_new"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.MessagesExpandableListActivity"
+            android:label="@string/title_activity_messages_list_expandable"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.MessageExpandableAdapter"
+            android:label="@string/title_activity_listview"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.DailyDiaryCalanderActivity"
+            android:label="@string/title_activity_daily_diary__calander"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.CalanderItemAdapter"
+            android:label="@string/title_activity_calander_item"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.AttandanceListAdapter"
+            android:label="@string/title_activity_item_list_activity_attandance"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.MessageListForMonthsAdapter"
+            android:label="@string/title_activity_message_item_list_for_months"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.DailyDiaryMonthListAdapter"
+            android:label="@string/title_activity_dailydiary_month_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SingleMessageNotificationActivity"
+            android:label="@string/title_activity_view_single__message__notification"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.NoticeBoardListAdapter"
+            android:label="@string/title_activity_item_noticeboard"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.NoticeBoardActivity"
+            android:label="@string/title_activity_noticeboard"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.adapter.SpinnerItemsAdapter"
+            android:label="@string/title_activity_item_list_for_spinner"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.RegisterGcmActivity"
+            android:label="@string/title_activity_register_gcm"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.ReportBugActivity"
+            android:label="@string/title_activity_report_bug"
+            android:windowSoftInputMode="stateVisible|adjustPan"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SuccessfullyActivity"
+            android:label="@string/title_activity_successfull"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.UseMemory"
+            android:label="@string/title_activity_use_memory"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.CreatePin"
+            android:label="@string/title_activity_create_pin"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.CreatePinMultiUser"
+            android:label="@string/title_activity_create_pin_multi_user"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.MultiUserList"
+            android:label="@string/title_activity_multi_user_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.MainPage"
+            android:label="@string/title_activity_main_page"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.SchoolMatesList"
+            android:label="@string/title_activity_school_mates_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.MessagesListActivity"
+            android:label="@string/title_activity_messages_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Attendance"
+            android:label="@string/title_activity_attendance"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.AttendanceItem"
+            android:label="@string/title_activity_attendance_item"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.AttendanceYears"
+            android:label="@string/title_activity_attendance_years"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.ViewAttendance"
+            android:label="@string/title_activity_view_attendance"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.StudentDetailsRowActivity"
+            android:label="@string/title_activity_messages_list_view_row"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.ExamandMarksheet"
+            android:label="@string/title_activity_examand_marksheet"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.NoRecordsFound"
+            android:label="@string/title_activity_no_records_found"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Attendancemonth"
+            android:label="@string/title_activity_attendancemonth"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Addphotos"
+            android:label="@string/title_activity_addphotos"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.MainActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.AttendanceMonthlist"
+            android:label="@string/title_activity_attendance_monthlist"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.AnotherActivity"
+            android:label="@string/title_activity_another"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.LessonDiary"
+            android:label="@string/title_activity_lesson_dairy"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.HomeWork"
+            android:label="@string/title_activity_home_work"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.HomeWorkNotDone"
+            android:label="@string/title_activity_home_work_not_done"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.LessonDiaryMessageActivity"
+            android:label="@string/title_activity_lesson_dairy_message"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.LessonDairyMessageItemList"
+            android:label="@string/title_activity_lesson_dairy_message_item_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.LessonMessageMonthlistActivity"
+            android:label="@string/title_activity_lesson_message_monthlist"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.LessonMessageSelectedMonthActivity"
+            android:label="@string/title_activity_lesson_message_selected_month"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.HomePage"
+            android:label="@string/title_activity_home_page"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.schoolSpecific.PhotoGallery"
+            android:label="@string/title_activity_photo_gallery"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.schoolSpecific.Locatus"
+            android:label="@string/title_activity_locatus"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.schoolSpecific.SchoolProfile"
+            android:label="@string/title_activity_school_profile"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.schoolSpecific.Presentation"
+            android:label="@string/title_activity_presentation"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.schoolSpecific.Facilities"
+            android:label="@string/title_activity_facilities"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.schoolSpecific.WhyKumKum"
+            android:label="@string/title_activity_why_kum_kum"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.schoolSpecific.ThoughtOfTheDay"
+            android:label="@string/title_activity_thought_of_the_day"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.LessonNotification"
+            android:label="@string/title_activity_lesson_notification"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Circular"
+            android:label="@string/title_activity_circular"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.Feecard"
+            android:label="@string/title_activity_feecard"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.FeeItemListActivity"
+            android:label="@string/title_activity_fee_item_list"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.FeeCard"
+            android:label="@string/title_activity_fee_card"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.FeeCardMenu"
+            android:label="@string/title_activity_fee_card_menu"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.FeeItem"
+            android:label="@string/title_activity_fee_item"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.FeeCardMenuActivity"
+            android:label="@string/title_activity_fee_card_menu1"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.NavigationActivity"
+            android:label="@string/title_activity_navigation"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.PhotoItemActivity"
+            android:label="@string/title_activity_photoitem"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.PhotoGallerySettings"
+            android:label="@string/title_activity_photo_gallery_settings"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.VechicleLocationActivity"
+            android:label="@string/activity_vechicle_location"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.VehicleInformationActivity"
+            android:label="@string/activity_vehicle_information"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.SingleHomeWorkMessageActivity"
+            android:label="@string/title_activity_single__hw__message"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.expedite.apps.nalanda.activity.DashboardActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="android.app.ExpandableListActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.ExpandableListActivity" />
+        </activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Attandance_graph"
+            android:label="@string/title_activity_attandance_graph"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.expedite.apps.nalanda.Dashboard_new"
+            android:label="@string/title_activity_dashboard_new"
+            android:screenOrientation="portrait"></activity>
+    </application>
+
+    <meta-data
+        android:name="com.google.android.gms.analytics.globalConfigResource"
+        android:resource="@xml/global_tracker" />
+
+</manifest>

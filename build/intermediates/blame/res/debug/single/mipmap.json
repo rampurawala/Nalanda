@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\mipmap\\notification.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\mipmap\\notification.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\mipmap\\explogo.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\mipmap\\explogo.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\mipmap\\vayuna.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\mipmap\\vayuna.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\mipmap\\notification_big.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\mipmap\\notification_big.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\mipmap\\notification_small.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\mipmap\\notification_small.png"
+    }
+]

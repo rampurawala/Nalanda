@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\values-v12\\paynimo_styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1102
+                    }
+                }
+            }
+        ]
+    }
+]

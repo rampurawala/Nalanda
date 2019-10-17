@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\pdficon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\pdficon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exam_result_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\exam_result_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\curriculum_icon_menu.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\curriculum_icon_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_peding_fees_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_peding_fees_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_attendance_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_attendance_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\left_arrow.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\left_arrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\calendar_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\calendar_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_payfees_online_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_payfees_online_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\parents_logo_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\parents_logo_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\radio_button_hover.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\radio_button_hover.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_home_work_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_home_work_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\down_arrow.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\down_arrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\payfees_online_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\payfees_online_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\peding_fees_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\peding_fees_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_exam_result_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_exam_result_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\close_btn_bg.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\close_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\videoicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\videoicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_all_exam_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_all_exam_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_absent_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_absent_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_rupee_fees_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_rupee_fees_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\download_arrow.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\download_arrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_vehicle_track_icon1.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_vehicle_track_icon1.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_fees_icon1.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_fees_icon1.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\minus_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\minus_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_fee_card_iocn.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_fee_card_iocn.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_school_mate_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_school_mate_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_message_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_message_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\calendaricon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\calendaricon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_exam_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_exam_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\paid_fees_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\paid_fees_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\arrow_right_xml.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\arrow_right_xml.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_vehicle_track_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_vehicle_track_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_daily_diary_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_daily_diary_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\skip_arrow_orange.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\skip_arrow_orange.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\social_media_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\social_media_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_photo_gallery_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_photo_gallery_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_uniform_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_uniform_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_home_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_home_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\play_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\play_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\time_table_icon_menu.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\time_table_icon_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\download_arrow_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\download_arrow_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\calendaricon_home.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\calendaricon_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\smile_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\smile_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_settings_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_settings_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\search.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_history_iocn.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_history_iocn.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\historyicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\historyicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\chk_test_hover.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\chk_test_hover.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hygineicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hygineicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\message_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\message_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\pause_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\pause_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\food_table_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\food_table_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\tnc.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\tnc.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\curriculum_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\curriculum_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\folder_image.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\folder_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\close_circle_outline.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\close_circle_outline.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\curriculumfolder.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\curriculumfolder.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\library_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\library_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\image_folder_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\image_folder_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\food_table_icon_menu.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\food_table_icon_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_home_work_note_done_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_home_work_note_done_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\time_table_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\time_table_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_send_query_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_send_query_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\logout_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\logout_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_noticeboard_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_noticeboard_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\speech_bubble_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\speech_bubble_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\audioicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\audioicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\photo_gallery_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\photo_gallery_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\radio_button_normal.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\radio_button_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_paid_fees_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_paid_fees_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\file1.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\file1.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\folder.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\folder.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\closebutton.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\closebutton.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\document.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\document.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\image_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\image_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\sade_smile_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\sade_smile_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\testicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\testicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\remarkicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\remarkicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\fee_card_iocn.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\fee_card_iocn.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\foodinfectionicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\foodinfectionicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\right_arrow.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\right_arrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_profile_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_profile_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\office_leave_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\office_leave_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\noticeboard_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\noticeboard_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\chk_test_normal.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\chk_test_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\all_exam_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\all_exam_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_folder_open_black_24dp.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_folder_open_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\library_icon_menu.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\library_icon_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\imageicon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\imageicon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_fees_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_fees_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\menu_late_come_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_late_come_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\plus_icon.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\plus_icon.xml"
+    }
+]

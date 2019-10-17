@@ -1,0 +1,1198 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_options.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_photo_options.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_noticeboard.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_noticeboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\image_view_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\image_view_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\survey_poll_task_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\survey_poll_task_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\leave_apply_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\leave_apply_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thought_of_the_day.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_thought_of_the_day.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_dialog_si_on_netbanking.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_dialog_si_on_netbanking.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\custom_spinner.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\food_chart_raw_header_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\food_chart_raw_header_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calander_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_calander_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_listrow.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_about_listrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_attendance.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_attendance.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\terms_and_conditions_dialog_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\terms_and_conditions_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_account.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_select_account.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_fragment_imps.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_fragment_imps.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_fragment_customervault.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_fragment_customervault.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_bug.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_report_bug.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\library_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\library_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\45c991a60b96690bb89da0eebc00d5656962df9f\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_parents_view_profile.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_parents_view_profile.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_login_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_btm_navigation.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_btm_navigation.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\leave_pending_fragment_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\leave_pending_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\child_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\child_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_item_list_for_months.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_message_item_list_for_months.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_messages_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\adview_row.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\adview_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_account_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_add_account_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\processing.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\processing.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\food_chart_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\food_chart_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\gridalbumdetaillist.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\gridalbumdetaillist.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback__history.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_feedback__history.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0c706f0783aa525d29c0ad65c66801189a06a0b5\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_marksheet_result.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_marksheet_result.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visitor_detail_two.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_visitor_detail_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_parents_profile_row.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_parents_profile_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_fees.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_custom_fees.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindows.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\popupwindows.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exams_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_exams_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otpnew.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_otpnew.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\view_image.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\view_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\media_player_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\media_player_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exam_itemlist.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_exam_itemlist.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stud_info.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_stud_info.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two_item_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_two_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subject_wise_hwdetails.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_subject_wise_hwdetails.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sinle_image.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_sinle_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\image_view_pager_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\image_view_pager_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_messages_item_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_lesson_messages_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_successfull.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_successfull.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fee_item_list_pay.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_fee_item_list_pay.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lession_message_item_list_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_lession_message_item_list_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\cc_txn_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\cc_txn_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_listitem_paymentmodes.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_listitem_paymentmodes.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_listitem_cardvaulted.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_listitem_cardvaulted.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0c706f0783aa525d29c0ad65c66801189a06a0b5\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendancemonth.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_attendancemonth.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\exam_list_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\exam_list_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_fragment_card.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_fragment_card.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_practice_test_result.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_practice_test_result.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\curriculum_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\curriculum_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_navigation.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandable__list_adapter.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_expandable__list_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_account.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_add_account.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\daily_diary_month_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\daily_diary_month_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sub_ject_wise_hwntdn.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_sub_ject_wise_hwntdn.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fee_item1.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_fee_item1.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\noticeboard_list_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\noticeboard_list_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_academic_year.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_academic_year.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_student_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\time_table_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\time_table_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_view_adapter.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_list_view_adapter.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\feecard_raw_layout_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\feecard_raw_layout_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_single__message__notification.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_single__message__notification.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transaction_history.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_transaction_history.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\leave_list_row_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\leave_list_row_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\45c991a60b96690bb89da0eebc00d5656962df9f\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_presentation.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_presentation.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_account_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_account_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mainactionbar.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\mainactionbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_settings_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_use_cam.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_use_cam.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_dairy_message.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_lesson_dairy_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_activity_otp_read.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_activity_otp_read.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\select_image_dialog_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\select_image_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_take_appointment_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_take_appointment_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_calendar_detail.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_calendar_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_not_board.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_not_board.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_activity_webview.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_activity_webview.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_redirect.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_redirect.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exam_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_exam_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_single_message.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_single_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0c706f0783aa525d29c0ad65c66801189a06a0b5\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subject_wise_hwntdnnotification.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_subject_wise_hwntdnnotification.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\feecard_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\feecard_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stud_info_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_stud_info_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_take_appointment.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_take_appointment.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_years.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_years.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_activity_payment.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_activity_payment.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\716d74a5e532fc63c9ebbb8b864862a4f1cf06fd\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list_for_spinner.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_item_list_for_spinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\leave_type_list_row_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\leave_type_list_row_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\716d74a5e532fc63c9ebbb8b864862a4f1cf06fd\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subject_wise_hw.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_subject_wise_hw.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\screen_gridcell.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\screen_gridcell.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\album_photos_item_row.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\album_photos_item_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_cascading_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list_activity_attandance.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_item_list_activity_attandance.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\appointment_list_row_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\appointment_list_row_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\leave_list_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\leave_list_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vechicle_location.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_vechicle_location.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\transactionhistoryitem.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\transactionhistoryitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_message_selected_month.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_lesson_message_selected_month.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visitor_detail_three.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_visitor_detail_three.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sub_ject_wise_hwntdndetails.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_sub_ject_wise_hwntdndetails.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_listitem_custom_header.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_listitem_custom_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\716d74a5e532fc63c9ebbb8b864862a4f1cf06fd\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_dialog_two_button.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_dialog_two_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\survey_poll_confirm_dialog_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\survey_poll_confirm_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\student_attendance_listrow_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\student_attendance_listrow_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_edit_text_bg.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_edit_text_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\time_table_list_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\time_table_list_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_list_view_row.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_messages_list_view_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_daily_diary__calander_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_daily_diary__calander_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\food_chart_list_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\food_chart_list_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_image_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\calendar_image_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0c706f0783aa525d29c0ad65c66801189a06a0b5\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0c706f0783aa525d29c0ad65c66801189a06a0b5\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_daily_diary__calander.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_daily_diary__calander.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_albumwisedetail.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_albumwisedetail.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_selected_month.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_messages_selected_month.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\splash_activity.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\layout_card_payment_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\layout_card_payment_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exam_list_marksheet.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_exam_list_marksheet.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\45c991a60b96690bb89da0eebc00d5656962df9f\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_list_row_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\feedback_list_row_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_gallery.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_photo_gallery.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_message_monthlist.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_lesson_message_monthlist.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dailydiary_month_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_dailydiary_month_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_result.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_result.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\image_viewpager_activity.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\image_viewpager_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_profile.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_profile.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\album_detail.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\album_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\documents.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\documents.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_monthlist.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_attendance_monthlist.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_fragment_netbanking.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_fragment_netbanking.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_years_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_years_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_activity_paymentmodes.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_activity_paymentmodes.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_dialog_one_button.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_dialog_one_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_noticeboard.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_item_noticeboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fee_card1.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_fee_card1.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\grid_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\library_list_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\library_list_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_monthlist.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_messages_monthlist.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_account_list_remove.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_account_list_remove.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\txn_options.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\txn_options.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\album_photos_item_row_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\album_photos_item_row_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_practice_test_qa.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_practice_test_qa.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_student_circular.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_student_circular.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_custom_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\dialog_custom_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\nb_webview_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\nb_webview_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stud_view_attendance.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_stud_view_attendance.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fee_card_menu1.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_fee_card_menu1.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fee_item_list_activity1.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_fee_item_list_activity1.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_payment_detail.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_card_payment_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fee_item_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_fee_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_zoom.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_image_zoom.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\group_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\socialmedia_list_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\socialmedia_list_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\extra_visitor_row.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\extra_visitor_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\curriculum_file_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\curriculum_file_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_application_header.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_application_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_locatus.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_locatus.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single__hw__message.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_single__hw__message.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_albumwisedetail_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_albumwisedetail_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_facilities.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_facilities.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_mobile.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_register_mobile.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_responce.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_payment_responce.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_data_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\calendar_data_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_gallery_settings.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_photo_gallery_settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_pin.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_create_pin.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_track_vehicle.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_track_vehicle.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\curriculum_folder_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\curriculum_folder_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_notification.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_lesson_notification.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\message_list_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\message_list_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\download_file_dialog.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\download_file_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_profile_scool_mates.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_view_profile_scool_mates.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pdf_view_acitivity.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_pdf_view_acitivity.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_application_footer.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_application_footer.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_use_memory.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_use_memory.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\home_data_list_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\home_data_list_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_item_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_messages_item_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\45c991a60b96690bb89da0eebc00d5656962df9f\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\716d74a5e532fc63c9ebbb8b864862a4f1cf06fd\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\nb_txn_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\bundles\\default\\res\\layout\\nb_txn_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0c706f0783aa525d29c0ad65c66801189a06a0b5\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\time_table_raw_header_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\time_table_raw_header_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback_detail.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_feedback_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\716d74a5e532fc63c9ebbb8b864862a4f1cf06fd\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_school_profile.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_school_profile.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4c8ab7e46f849231d1fdc8df091ca404dbdb307d\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_documents.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_documents.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoitem.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_photoitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messages_list_expandable.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_messages_list_expandable.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\school_spinner_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\school_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\716d74a5e532fc63c9ebbb8b864862a4f1cf06fd\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exams.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_exams.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\paynimo_dialog_vault_card.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\paynimo_dialog_vault_card.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subject_wise_hwnotification.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_subject_wise_hwnotification.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_apps.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_login_apps.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vehicle_information.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_vehicle_information.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\curriculum_list_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\curriculum_list_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fees_pay.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_fees_pay.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile_listrow.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_profile_listrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\home_menu_item_raw_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\home_menu_item_raw_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_practice_test.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\fragment_practice_test.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\row_practice_test_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\row_practice_test_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\social_media_dialog_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\social_media_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_pdf.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_homework_pdf.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_school_mates_list.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_school_mates_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\gridalbumdetaillist_new.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\gridalbumdetaillist_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\home_photos_item_row.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\home_photos_item_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\home_sub_layout.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\home_sub_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0af923fd826f780fba9c328ae0ce000d592c4973\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visitor_detail_one.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\res\\layout\\activity_visitor_detail_one.xml"
+    }
+]

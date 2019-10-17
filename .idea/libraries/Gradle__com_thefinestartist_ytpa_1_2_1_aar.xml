@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.thefinestartist:ytpa:1.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/07522e8aab71ee94b5859e48f21f4115a0331914/output/jars/libs/YouTubeAndroidPlayerApi.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/07522e8aab71ee94b5859e48f21f4115a0331914/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/07522e8aab71ee94b5859e48f21f4115a0331914/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thefinestartist/ytpa/1.2.1/9bd518940a192d68be25736043f8d4f27e0ea234/ytpa-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

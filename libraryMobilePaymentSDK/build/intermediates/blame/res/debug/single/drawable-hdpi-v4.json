@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\atomlogo.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\drawable-hdpi\\atomlogo.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\process.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\drawable-hdpi\\process.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

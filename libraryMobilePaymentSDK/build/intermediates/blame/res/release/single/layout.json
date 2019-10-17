@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\custom_spinner.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\layout_card_payment_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\layout_card_payment_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\processing.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\processing.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\spinner_item.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\txn_options.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\txn_options.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\nb_txn_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\nb_txn_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\nb_webview_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\nb_webview_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\cc_txn_screen.xml",
+        "source": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\cc_txn_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3a556089799d0f8413f057ab607bb153e301c25\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nalanda 9-8-19\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\29384f33cbd6a11062a6a6b31b2e2bd068dcc9c9\\output\\res\\layout\\notification_action.xml"
+    }
+]

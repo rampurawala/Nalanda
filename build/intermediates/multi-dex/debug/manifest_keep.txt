@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:53
+-keep class com.expedite.apps.nalanda.MyApplication { <init>(...); }
+

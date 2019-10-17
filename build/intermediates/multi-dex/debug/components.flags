@@ -1,0 +1,42 @@
+-injars 'D:\Android\Projects\Nalanda 9-8-19\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'D:\Android\Projects\Nalanda 9-8-19\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'D:\Android\Sdk\build-tools\28.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\Android\Projects\Nalanda 9-8-19\build\intermediates\multi-dex\debug\components.flags'
+
+
+# view AndroidManifest.xml #generated:53
+-keep class com.expedite.apps.nalanda.MyApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}
