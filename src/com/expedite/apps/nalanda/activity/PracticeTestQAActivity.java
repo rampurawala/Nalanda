@@ -85,6 +85,7 @@ public class PracticeTestQAActivity extends BaseActivity implements View.OnClick
     AlertDialog.Builder mBuilder;
     String opt_1 = "", opt_2 = "", opt_3 = "", opt_4 = "";
     AlertDialog mDialog;
+    String n="";
     // The system "short" animation time duration, in milliseconds. This
     // duration is ideal for subtle animations or animations that occur
     // very frequently.
